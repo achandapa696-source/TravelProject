@@ -54,7 +54,7 @@
                                     <label>Phone Number</label>
                                 </div>
                             </div>
-                            <div class="col-12">
+                              <div class="col-12">
                                 <div class="form-floating">
                                     <asp:TextBox ID="txtPassword" runat="server" CssClass="form-control" TextMode="Password" placeholder="Password"></asp:TextBox>
                                     <label>Password</label>
